@@ -1,0 +1,13 @@
+project_id = "nzmziiezjfsqiqrdzdic"
+
+[functions.send-email-notification]
+verify_jwt = false
+
+[functions.send-weekly-digest]
+verify_jwt = false
+
+[functions.schedule-sessions]
+verify_jwt = false
+
+[functions.process-insight]
+verify_jwt = false
